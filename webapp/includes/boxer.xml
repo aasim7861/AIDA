@@ -1,0 +1,37 @@
+<boxers>
+
+			<name>
+				<year> 2015 </year>
+				<model> TMT </model>
+				<details>
+					<boxername> Floyd Mayweather </boxername>
+					<finishdate> September 2015 </finishdate>
+				</details>
+			</name>
+			<name>
+				<year> 2010 </year>
+				<model> The Greatest Ever </model>
+				<details>
+					<boxername> Muhammad Ali </boxername>
+					<finishdate> January 1990 </finishdate>
+				</details>
+			</name>
+			<name>
+				<year> 2009 </year>
+				<model> Future King </model>
+				<details>
+					<boxername> Amir Khan </boxername>
+					<finishdate> May 2016 </finishdate>
+				</details>
+			</name>
+			<name>
+				<year> 2012 </year>
+				<model> Chambers </model>
+				<details>
+					<boxername> Marcos Maidana </boxername>
+					<finishdate> May 2013 </finishdate>
+				</details>
+			</name>
+			
+			
+</boxers>
